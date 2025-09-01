@@ -2,7 +2,7 @@
 
 > |Nome  | RA | Especialização|
 > |--|--|--|
-> | Barbara da Paixão Perez Rodrigues  | 297998  | Biologia |
+> | Barbara da Paixão Perez Rodrigues  | 297998  | Genética e Biologia Molecular |
 > | Felipe Aráujo de Lima  | 290210  | Computação |
 > | Pablo Alessandro Barbosa Viana  | 299188  | Computação |
 > | Thaynara Beatriz Selasco de Matos  | 291898  | Computação|
