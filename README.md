@@ -1,4 +1,4 @@
-# Projeto: Vias metabólicas da osteoporose e seus tratamentos
+# Projeto: A Intersecção entre as Vias Metabólicas da Osteoporose e os Genes Alvos dos Medicamentos Raloxifeno, Ácido Zoledrônico e Alendronato de Sódio
 
 > |Nome  | RA | Especialização|
 > |--|--|--|
