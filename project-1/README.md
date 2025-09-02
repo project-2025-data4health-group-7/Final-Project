@@ -28,7 +28,7 @@
 
 > Base de Dados | Endereço na Web | Resumo descritivo
 > ----- | ----- | -----
-> GEO | [http://base1.org/](https://www.ncbi.nlm.nih.gov/geo/) | Repositório de dados genômicos do NCBI
+> GEO | http://base1.org/](https://www.ncbi.nlm.nih.gov/geo/ | Repositório de dados genômicos do NCBI
 > ChEMBL | https://www.ebi.ac.uk/chembl/ | Banco de dados de moléculas bioativas com propriedades semelhantes às de medicamentos
 
 # Modelo Lógico
