@@ -1,12 +1,14 @@
-# Projeto `<Título em Português>`
+# Projeto: Vias metabólicas da osteoporose e seus tratamentos
 
 # Descrição Resumida do Projeto
 
-> Descrição do tema do projeto, incluindo motivação e contexto gerador.
+A osteoporose é uma doença osteometabólica caracterizada pela redução progressiva da densidade óssea e pela fragilidade estrutural do esqueleto, afetando cerca de 200 milhões de pessoas no mundo. Sua maior incidência ocorre em mulheres na pós-menopausa e em idosos, grupos nos quais o risco de fraturas representa importante impacto na qualidade de vida e nos custos de saúde. No Brasil, o envelhecimento populacional e o alto custo dos medicamentos reforçam a necessidade de estratégias terapêuticas eficazes e acessíveis.
+
+O avanço das análises genômicas e bioinformáticas permite aprofundar a compreensão dos mecanismos moleculares que sustentam a doença, oferecendo novas perspectivas para a avaliação de fármacos já utilizados, como o alendronato de sódio, o ranelato de estrôncio e o ácido zoledrônico. Nesse contexto, este projeto busca explorar as principais vias metabólicas relacionadas à osteoporose e os alvos moleculares de seus tratamentos, utilizando bases de dados públicas e abordagens de modelagem em grafos para visualizar interações gênicas e farmacológicas. A motivação central é integrar dados ômicos e farmacológicos para evidenciar relações entre genes diferencialmente expressos, vias de sinalização e mecanismos de ação dos medicamentos, contribuindo para uma compreensão mais abrangente da doença e de suas terapias, com potenciais implicações para o desenho de novas estratégias terapêuticas de baixo custo e alta efetividade no sistema público de saúde.
 
 # Slides
 
-> Coloque aqui o link para o PDF da apresentação da parte 1.
+> [Link da apresentação parte 1](https://docs.google.com/presentation/d/1ZxMySMbwUOuSA5Y5QsJsfKlnTBV8lvWKgYdL4qUC-5E/)
 
 # Fundamentação Teórica
 
@@ -24,27 +26,45 @@
 
 # Bases de Dados
 
-> Os conjuntos de dados a serem utilizados nesse trabalho são advindos do GEO. Os códigos de acesso são: GSE7158,GSE56814 e GSE56815.
+> Os conjuntos de dados a serem utilizados nesse trabalho são advindos do GEO. Os códigos de acesso são: GSE7158, GSE56814 e GSE56815.
 
 > Base de Dados | Endereço na Web | Resumo descritivo
 > ----- | ----- | -----
-> GEO | https://www.ncbi.nlm.nih.gov/geo/ | Repositório de dados genômicos do NCBI
-> ChEMBL | https://www.ebi.ac.uk/chembl/ | Banco de dados de moléculas bioativas com propriedades semelhantes às de medicamentos
+> GEO | https://www.ncbi.nlm.nih.gov/geo/ | Repositório de dados genômicos do NCBI |
+> String DB | https://string-db.org/ |  Banco de dados de interações proteína-proteína conhecidas e previstas |
+> KEGG | https://www.genome.jp/kegg/ | Bancos de dados que serve para compreender funções e interações moleculares em sistemas biológicos |
+> ChEMBL | https://www.ebi.ac.uk/chembl/ | Banco de dados de moléculas bioativas com propriedades semelhantes às de medicamentos |
+> Open Targets Plataform | https://platform.opentargets.org/ | Banco de dados de alvos moleculares de medicamentos |
+> GBQ Target identification | https://bioquimio.udla.edu.ec/tidentification01 | Banco de dados dos mecanismos de ação e efeitos colaterais de compostos químicos |
 
 # Modelo Lógico
 
-> Modelo lógico da base de grafos que será construída. Para o modelo de grafos de propriedades, utilize este
-> [modelo de base](https://docs.google.com/presentation/d/10RN7bDKUka_Ro2_41WyEE76Wxm4AioiJOrsh6BRY3Kk/edit?usp=sharing) para construir o seu.
-> Coloque a imagem do PNG do seu modelo lógico como ilustrado abaixo (a imagem estará na pasta `image`):
->
+> O modelo lógico da base de grafos que será construída segue a no seguinte [link](https://docs.google.com/presentation/d/15b7ehktnPQX_y3pzP3UTcvcNo337se3j4HlWogn3MKo)
 
 # Metodologia
-> Esta seção evoluirá ao longo do projeto. Nesta primeira entrega, informe técnicas de Ciência de Redes que pretende explorar,
-> tais como: detecção de comunidades, análise de centralidade, predição de links, ou a combinação de uma ou mais técnicas. Descreva o que perguntas pretende endereçar cm a técnica escolhida.
+
+> Para explorar as vias metabólicas da osteoporose e os alvos moleculares de seu tratamento realizaremos os seguinte passos: 
+
+1. Identificar genes diferentemente expressos em osteoporose.
+
+2. Classificar esses genes em perfis metabólicos do KEGG.
+
+3. Selecionar vias metabólicas com potencial para os metabolismos envolvidos nessa doença.
+
+4. Identificar genes com maior centralidade entre os genes envolvidos com a doença.
+
+5. Identificar alvos moleculares das vias onde os medicamento utilizados atuam.
+
+6. Comparar genes envolvidos nas vias destes tratamentos com os genes selecionados da doença.
+
 
 # Ferramentas
 
-> Ferramentas a serem utilizadas (com base na visão atual do grupo sobre o projeto).
+> Utilizaremos as seguintes ferramentas:
+
+ - Cytoscape: será utilizado para gerar grafos das vias metabolicas envolvidas com a osteorose e os alvos mocelulares dos medicamentos e realizar as associações.
+ - KEGG: proverá as categorias semânticas das vias analisadas de modo a limitar as análises aos processos mais relacionados à doença.
+ - Neo4J: permitirá realizarmos análises mais aprofundadas nas redes para obter padrões e compreender interações entre vias da doença e medicamentos.
 
 # Referências Bibliográficas
 
