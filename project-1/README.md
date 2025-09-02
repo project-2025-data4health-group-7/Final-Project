@@ -12,7 +12,7 @@ O avanço das análises genômicas e bioinformáticas permite aprofundar a compr
 
 # Fundamentação Teórica
 
-A osteoporose é uma doença osteometabólica causada pela diminuição progressiva da densidade óssea e deterioração microarquitetural, tornando-os frágeis e porosos. No mundo, cerca de 200 milhões de pessoas são afetadas com essa patologia o que a torna um problema de saúde pública que necessita de atenção¹. Essa doença é comum na população acima de 65 anos, com maior incidência em mulheres na pós-menopausa. Devido a fragilidade dos ossos, pacientes com essa doença possuem maior risco de fraturas, o que leva a dores e complicações a longo prazo e diminui a qualidade de vida desses pacientes. Com o envelhecimento da população e o alto custo dos medicamentos no Brasil, a osteoporose torna-se um desafio para a saúde pública, tendo em vista a necessidade de medicamentos de alta efetividade e com baixo custo para a distribuição em larga escala pela rede pública de saúde².
+A osteoporose é uma doença osteometabólica causada pela diminuição progressiva da densidade óssea e deterioração microarquitetural, tornando-os frágeis e porosos¹. Devido a fragilidade dos ossos, pacientes com essa doença possuem maior risco de fraturas, o que leva a dores e complicações a longo prazo diminuindo a qualidade de vida desses pacientes. Com o envelhecimento da população e o alto custo dos medicamentos no Brasil, a osteoporose torna-se um desafio para a saúde pública, tendo em vista a necessidade de medicamentos de alta efetividade e com baixo custo para a distribuição em larga escala pela rede pública de saúde².
 
 Em condições normais, o osso é um órgão rígido e dinâmico que passa por um processo contínuo de remodelação envolvendo a "quebra" (reabsorção), feita por osteoclastos e construção de osso, feita por osteoblastos. Este processo ocorre em microescala por todo esqueleto durante toda a vida do ser humano. A osteoporose surge quando há um desequilíbrio nesse processo. Em pacientes com essa doença, o processo de reabsorção ocorre com maior frequência, de forma com que a síntese de novas camadas ósseas não conseguem acompanhar.
 
@@ -48,6 +48,11 @@ O aprofundamento sobre os mecanismos moleculares e genéticos, como por análise
 
 
 # Modelo Lógico
+
+<div align="center">
+ <img width="1062" height="435" alt="image" src="https://github.com/user-attachments/assets/b5872d53-aace-4e61-9639-e5b369b3cc92" />
+</div>
+
 
 > O modelo lógico da base de grafos que será construída segue a no seguinte [link](https://docs.google.com/presentation/d/15b7ehktnPQX_y3pzP3UTcvcNo337se3j4HlWogn3MKo)
 
