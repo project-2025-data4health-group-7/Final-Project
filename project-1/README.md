@@ -12,11 +12,11 @@ O avanço das análises genômicas e bioinformáticas permite aprofundar a compr
 
 # Fundamentação Teórica
 
-> A osteoporose é uma doença osteometabólica causada pela diminuição progressiva da densidade óssea e deterioração microarquitetural, tornando-os frágeis e porosos. No mundo, cerca de 200 milhões de pessoas são afetadas com essa patologia o que a torna um problema de saúde pública que necessita de atenção¹. Essa doença é comum na população acima de 65 anos, com maior incidência em mulheres na pós-menopausa. Devido a fragilidade dos ossos, pacientes com essa doença possuem maior risco de fraturas, o que leva a dores e complicações a longo prazo e diminui a qualidade de vida desses pacientes. Com o envelhecimento da população e o alto custo dos medicamentos no Brasil, a osteoporose torna-se um desafio para a saúde pública, tendo em vista a necessidade de medicamentos de alta efetividade e com baixo custo para a distribuição em larga escala pela rede pública de saúde².
+A osteoporose é uma doença osteometabólica causada pela diminuição progressiva da densidade óssea e deterioração microarquitetural, tornando-os frágeis e porosos. No mundo, cerca de 200 milhões de pessoas são afetadas com essa patologia o que a torna um problema de saúde pública que necessita de atenção¹. Essa doença é comum na população acima de 65 anos, com maior incidência em mulheres na pós-menopausa. Devido a fragilidade dos ossos, pacientes com essa doença possuem maior risco de fraturas, o que leva a dores e complicações a longo prazo e diminui a qualidade de vida desses pacientes. Com o envelhecimento da população e o alto custo dos medicamentos no Brasil, a osteoporose torna-se um desafio para a saúde pública, tendo em vista a necessidade de medicamentos de alta efetividade e com baixo custo para a distribuição em larga escala pela rede pública de saúde².
 
->Em condições normais, o osso é um órgão rígido e dinâmico que passa por um processo contínuo de remodelação envolvendo a "quebra" (reabsorção), feita por osteoclastos e construção de osso, feita por osteoblastos. Este processo ocorre em microescala por todo esqueleto durante toda a vida do ser humano. A osteoporose surge quando há um desequilíbrio nesse processo. Em pacientes com essa doença, o processo de reabsorção ocorre com maior frequência, de forma com que a síntese de novas camadas ósseas não conseguem acompanhar.
+Em condições normais, o osso é um órgão rígido e dinâmico que passa por um processo contínuo de remodelação envolvendo a "quebra" (reabsorção), feita por osteoclastos e construção de osso, feita por osteoblastos. Este processo ocorre em microescala por todo esqueleto durante toda a vida do ser humano. A osteoporose surge quando há um desequilíbrio nesse processo. Em pacientes com essa doença, o processo de reabsorção ocorre com maior frequência, de forma com que a síntese de novas camadas ósseas não conseguem acompanhar.
 
-> O aprofundamento sobre os mecanismos moleculares e genéticos, como por análise de associação genômica ampla (GWAS), podem contribuir para o entendimento da doença e para a busca de novas estratégias de intervenção no quadro clínico de pacientes. Uma vez que o mapa genético da doença se torna mais claro, é possível investigar como os tratamentos já existentes interagem com esses alvos. Nesse sentido, propõe-se a aplicação de uma metodologia de bioinformática, análoga à empregada por Yu et al. (2020), para avaliar os mecanismos de ação de medicamentos já estabelecidos e utilizados no tratamento da osteoporose: o alendronato de sódio, o raloxifeno e o ácido zoledrônico. 
+O aprofundamento sobre os mecanismos moleculares e genéticos, como por análise de associação genômica ampla (GWAS), podem contribuir para o entendimento da doença e para a busca de novas estratégias de intervenção no quadro clínico de pacientes. Uma vez que o mapa genético da doença se torna mais claro, é possível investigar como os tratamentos já existentes interagem com esses alvos. Nesse sentido, propõe-se a aplicação de uma metodologia de bioinformática, análoga à empregada por Yu et al. (2020), para avaliar os mecanismos de ação de medicamentos já estabelecidos e utilizados no tratamento da osteoporose: o alendronato de sódio, o raloxifeno e o ácido zoledrônico. 
 
 # Perguntas de Pesquisa
 
@@ -36,6 +36,16 @@ O avanço das análises genômicas e bioinformáticas permite aprofundar a compr
 > ChEMBL | https://www.ebi.ac.uk/chembl/ | Banco de dados de moléculas bioativas com propriedades semelhantes às de medicamentos |
 > Open Targets Plataform | https://platform.opentargets.org/ | Banco de dados de alvos moleculares de medicamentos |
 > GBQ Target identification | https://bioquimio.udla.edu.ec/tidentification01 | Banco de dados dos mecanismos de ação e efeitos colaterais de compostos químicos |
+>
+## Conjunto de dados
+
+> Os conjuntos de dados a serem utilizados nesse trabalho são advindos do GEO. Os códigos de acesso são: GSE7158, GSE56814 e GSE56815.
+> GEO accession | Endereço na Web | Resumo descritivo
+> ----- | ----- | -----
+> GSE7158 | https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE7158 | Estudo de expressão gênica em todo o genoma de monócitos circulantes em humanos com massa óssea extremamente alta vs. baixa |
+> GSE56814 | https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE56814 | 	Estudo da expressão gênica de monócitos sanguíneos em mulheres na pré e pós-menopausa com baixa ou alta densidade mineral óssea |
+> GSE56815 | https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE56815 | Estudo da expressão gênica de monócitos sanguíneos em mulheres na pré e pós-menopausa com baixa ou alta densidade mineral óssea |
+
 
 # Modelo Lógico
 
