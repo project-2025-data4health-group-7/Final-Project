@@ -24,12 +24,12 @@
 
 # Bases de Dados
 
-> Elencar bases de dados candidatas a serem utilizadas no projeto na forma de tabela:
+> Os conjuntos de dados a serem utilizados nesse trabalho são advindos do GEO. Os códigos de acesso são: GSE7158,GSE56814 e GSE56815.
 
 > Base de Dados | Endereço na Web | Resumo descritivo
 > ----- | ----- | -----
-> Título da Base 1 | http://base1.org/ | Breve resumo (duas ou três linhas) sobre a base.
-> Título da Base 2 | http://base2.org/ | Breve resumo (duas ou três linhas) sobre a base.
+> GEO | [http://base1.org/](https://www.ncbi.nlm.nih.gov/geo/) | Repositório de dados genômicos do NCBI
+> ChEMBL | https://www.ebi.ac.uk/chembl/ | Banco de dados de moléculas bioativas com propriedades semelhantes às de medicamentos
 
 # Modelo Lógico
 
