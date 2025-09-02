@@ -1,4 +1,4 @@
-# Projeto: Vias metabólicas da osteoporose e seus tratamentos
+# Projeto: Vias Metabólicas da Osteoporose e seus Tratamentos
 
 # Descrição Resumida do Projeto
 
@@ -16,7 +16,7 @@ O avanço das análises genômicas e bioinformáticas permite aprofundar a compr
 
 >Em condições normais, o osso é um órgão rígido e dinâmico que passa por um processo contínuo de remodelação envolvendo a "quebra" (reabsorção), feita por osteoclastos e construção de osso, feita por osteoblastos. Este processo ocorre em microescala por todo esqueleto durante toda a vida do ser humano. A osteoporose surge quando há um desequilíbrio nesse processo. Em pacientes com essa doença, o processo de reabsorção ocorre com maior frequência, de forma com que a síntese de novas camadas ósseas não conseguem acompanhar.
 
-> O aprofundamento sobre os mecanismos moleculares e genéticos, como por análise de associação genômica ampla (GWAS), podem contribuir para o entendimento da doença e para a busca de novas estratégias de intervenção no quadro clínico de pacientes. Uma vez que o mapa genético da doença se torna mais claro, é possível investigar como os tratamentos já existentes interagem com esses alvos. Nesse sentido, propõe-se a aplicação de uma metodologia de bioinformática, análoga à empregada por Yu et al. (2020), para avaliar os mecanismos de ação de medicamentos já estabelecidos e utilizados no tratamento da osteoporose: o alendronato de sódio, o ranelato de estrôncio e o ácido zoledrônico. Nesse trabalho, visa-se identificar alvos moleculares que também encontram-se presentes nas principais vias de sinalização identificadas para a doença, permitindo a discussão sobre os efeitos dos medicamentos sobre as vias que garantem a sua eficácia. 
+> O aprofundamento sobre os mecanismos moleculares e genéticos, como por análise de associação genômica ampla (GWAS), podem contribuir para o entendimento da doença e para a busca de novas estratégias de intervenção no quadro clínico de pacientes. Uma vez que o mapa genético da doença se torna mais claro, é possível investigar como os tratamentos já existentes interagem com esses alvos. Nesse sentido, propõe-se a aplicação de uma metodologia de bioinformática, análoga à empregada por Yu et al. (2020), para avaliar os mecanismos de ação de medicamentos já estabelecidos e utilizados no tratamento da osteoporose: o alendronato de sódio, o ranelato de estrôncio e o ácido zoledrônico. 
 
 # Perguntas de Pesquisa
 
