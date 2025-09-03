@@ -8,7 +8,8 @@ O avanço das análises genômicas e bioinformáticas permite aprofundar a compr
 
 # Slides
 
-> [Link da apresentação parte 1](https://docs.google.com/presentation/d/1ZxMySMbwUOuSA5Y5QsJsfKlnTBV8lvWKgYdL4qUC-5E/)
+> [📄 PDF da apresentação](https://github.com/project-2025-data4health-group-7/Final-Project/blob/main/project-1/Entrega%201%20-%20Ciencia%20e%20visualiza%C3%A7%C3%A3o%20de%20dados%20em%20sa%C3%BAde.pdf)
+
 
 # Fundamentação Teórica
 
