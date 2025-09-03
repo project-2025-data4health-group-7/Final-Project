@@ -3,7 +3,7 @@
 > |Nome  | RA | Especialização|
 > |--|--|--|
 > | Barbara da Paixão Perez Rodrigues  | 297998  | Genética e Biologia Molecular |
-> | Sophia de Alcantara Rodrigues  | 297998  | Faculdade de Ciências Médicas |
+> | Sophia de Alcantara Rodrigues  | 200404  | Faculdade de Ciências Médicas |
 > | Pablo Alessandro Barbosa Viana  | 299188  | Bioinformática |
 > | Felipe Aráujo de Lima  | 290210  | Computação |
 > | Thaynara Beatriz Selasco de Matos  | 291898  | Computação |
