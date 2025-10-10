@@ -1,4 +1,4 @@
-# Obtenção dos genes target para o medicamento Aledronato de sódio
+## Obtenção dos genes target para o medicamento Aledronato de sódio
 
 > O aledronato de sódio é um medicamento utilizado para o tratamento de osteoporose e tem atividade de antirreabsorção óssea.
 > Para isso ele age inibindo a ação de osteoclastos. Uma imagem da molécula pode ser vista a seguir:
