@@ -1,1 +1,0 @@
-Resultados de expressão diferencial

@@ -1,0 +1,103 @@
+MoleculeType	Identifier	MoleculeName	
+Chemical Compounds	30616	ATP(4-) [ChEBI:30616]	
+Chemical Compounds	456216	ADP(3-) [ChEBI:456216]	
+Chemical Compounds	43474	hydrogenphosphate [ChEBI:43474]	
+Chemical Compounds	58189	GDP(3-) [ChEBI:58189]	
+Chemical Compounds	37565	GTP(4-) [ChEBI:37565]	
+Chemical Compounds	28815	heparan sulfate [ChEBI:28815]	
+Chemical Compounds	58456	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate(5-) [ChEBI:58456]	
+Chemical Compounds	57836	1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate(7-) [ChEBI:57836]	
+Chemical Compounds	58165	3',5'-cyclic AMP(1-) [ChEBI:58165]	
+Chemical Compounds	15377	water [ChEBI:15377]	
+Chemical Compounds	456215	adenosine 5'-monophosphate(2-) [ChEBI:456215]	
+Chemical Compounds	15378	hydron [ChEBI:15378]	
+Chemical Compounds	29105	zinc(2+) [ChEBI:29105]	
+Proteins	P01308	UniProt:P01308 INS	
+Proteins	P06213	UniProt:P06213 INSR	
+Proteins	P62993-1	UniProt:P62993-1 GRB2	
+Proteins	Q07889	UniProt:Q07889 SOS1	
+Proteins	P29353	UniProt:P29353 SHC1	
+Proteins	Q13322	UniProt:Q13322 GRB10	
+Proteins	P35568	UniProt:P35568 IRS1	
+Proteins	Q9Y4H2	UniProt:Q9Y4H2 IRS2	
+Proteins	P28482	UniProt:P28482 MAPK1	
+Proteins	P27361	UniProt:P27361 MAPK3	
+Proteins	P01116-2	UniProt:P01116-2 KRAS	
+Proteins	P01111	UniProt:P01111 NRAS	
+Proteins	P01116-1	UniProt:P01116-1 KRAS	
+Proteins	P01112	UniProt:P01112 HRAS	
+Proteins	P27986	UniProt:P27986 PIK3R1	
+Proteins	O00459	UniProt:O00459 PIK3R2	
+Proteins	P42336	UniProt:P42336 PIK3CA	
+Proteins	P42338	UniProt:P42338 PIK3CB	
+Proteins	Q13480	UniProt:Q13480 GAB1	
+Proteins	O95750	UniProt:O95750 FGF19	
+Proteins	P22455	UniProt:P22455 FGFR4	
+Proteins	Q86Z14	UniProt:Q86Z14 KLB	
+Proteins	P08620	UniProt:P08620 FGF4	
+Proteins	P05230	UniProt:P05230 FGF1	
+Proteins	O76093	UniProt:O76093 FGF18	
+Proteins	Q9NP95	UniProt:Q9NP95 FGF20	
+Proteins	P55075-1	UniProt:P55075-1 FGF8	
+Proteins	Q9GZV9	UniProt:Q9GZV9 FGF23	
+Proteins	P09038	UniProt:P09038 FGF2	
+Proteins	O60258-1	UniProt:O60258-1 FGF17	
+Proteins	P31371	UniProt:P31371 FGF9	
+Proteins	O43320	UniProt:O43320 FGF16	
+Proteins	P12034-1	UniProt:P12034-1 FGF5	
+Proteins	P22607-1	UniProt:P22607-1 FGFR3	
+Proteins	P11362-1	UniProt:P11362-1 FGFR1	
+Proteins	Q9UEF7-2	UniProt:Q9UEF7-2 KL	
+Proteins	Q9UEF7-1	UniProt:Q9UEF7-1 KL	
+Proteins	P21802-1	UniProt:P21802-1 FGFR2	
+Proteins	P10767	UniProt:P10767 FGF6	
+Proteins	P21802-5	UniProt:P21802-5 FGFR2	
+Proteins	P11362-19	UniProt:P11362-19 FGFR1	
+Proteins	Q9HCT0	UniProt:Q9HCT0 FGF22	
+Proteins	P11487	UniProt:P11487 FGF3	
+Proteins	O15520	UniProt:O15520 FGF10	
+Proteins	P21802-18	UniProt:P21802-18 FGFR2	
+Proteins	P21781	UniProt:P21781 FGF7	
+Proteins	P21802-3	UniProt:P21802-3 FGFR2	
+Proteins	P22607-2	UniProt:P22607-2 FGFR3	
+Proteins	Q8WU20	UniProt:Q8WU20 FRS2	
+Proteins	Q06124	UniProt:Q06124 PTPN11	
+Proteins	Q99570	UniProt:Q99570 PIK3R4	
+Proteins	Q8NEB9	UniProt:Q8NEB9 PIK3C3	
+Proteins	Q9NR96	UniProt:Q9NR96 TLR9	
+Proteins	P36888	UniProt:P36888 FLT3	
+Proteins	P49771	UniProt:P49771 FLT3LG	
+Proteins	Q9UQC2	UniProt:Q9UQC2 GAB2	
+Proteins	O15530	UniProt:O15530 PDPK1	
+Proteins	P31751	UniProt:P31751 AKT2	
+Proteins	Q5T1C6	UniProt:Q5T1C6 THEM4	
+Proteins	Q96RU7	UniProt:Q96RU7 TRIB3	
+Proteins	Q13370	UniProt:Q13370 PDE3B	
+Proteins	Q15904	UniProt:Q15904 ATP6AP1	
+Proteins	Q99437	UniProt:Q99437 ATP6V0B	
+Proteins	P27449	UniProt:P27449 ATP6V0C	
+Proteins	Q8NHE4	UniProt:Q8NHE4 ATP6V0E2	
+Proteins	O15342	UniProt:O15342 ATP6V0E1	
+Proteins	Q8N8Y2	UniProt:Q8N8Y2 ATP6V0D2	
+Proteins	P61421	UniProt:P61421 ATP6V0D1	
+Proteins	Q9HBG4	UniProt:Q9HBG4 ATP6V0A4	
+Proteins	Q13488	UniProt:Q13488 TCIRG1	
+Proteins	Q93050	UniProt:Q93050 ATP6V0A1	
+Proteins	Q9Y487	UniProt:Q9Y487 ATP6V0A2	
+Proteins	Q16864	UniProt:Q16864 ATP6V1F	
+Proteins	Q9Y5K8	UniProt:Q9Y5K8 ATP6V1D	
+Proteins	Q9UI12	UniProt:Q9UI12 ATP6V1H	
+Proteins	Q8NEY4	UniProt:Q8NEY4 ATP6V1C2	
+Proteins	P21283	UniProt:P21283 ATP6V1C1	
+Proteins	P36543	UniProt:P36543 ATP6V1E1	
+Proteins	Q96A05	UniProt:Q96A05 ATP6V1E2	
+Proteins	Q96LB4	UniProt:Q96LB4 ATP6V1G3	
+Proteins	O95670	UniProt:O95670 ATP6V1G2	
+Proteins	O75348	UniProt:O75348 ATP6V1G1	
+Proteins	P15313	UniProt:P15313 ATP6V1B1	
+Proteins	P21281	UniProt:P21281 ATP6V1B2	
+Proteins	P38606	UniProt:P38606 ATP6V1A	
+Proteins	P07339	UniProt:P07339 CTSD	
+Proteins	P14735	UniProt:P14735 IDE	
+Proteins	P18031	UniProt:P18031 PTPN1	
+Proteins	P10586	UniProt:P10586 PTPRF	
