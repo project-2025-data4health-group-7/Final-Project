@@ -8,7 +8,7 @@ O avanço das análises genômicas e bioinformáticas permite aprofundar a compr
 
 # Slides
 
-> [📄 PDF da apresentação](https://github.com/project-2025-data4health-group-7/Final-Project/blob/main/project-1/Entrega%201%20-%20Ciencia%20e%20visualiza%C3%A7%C3%A3o%20de%20dados%20em%20sa%C3%BAde.pdf)
+> [📄 PDF da apresentação]([https://github.com/project-2025-data4health-group-7/Final-Project/blob/main/project-1/Entrega%201%20-%20Ciencia%20e%20visualiza%C3%A7%C3%A3o%20de%20dados%20em%20sa%C3%BAde.pdf](https://github.com/project-2025-data4health-group-7/Final-Project/blob/main/project-2/assets/Entrega%202%20-%20Ciencia%20e%20visualiza%C3%A7%C3%A3o%20de%20dados%20em%20sa%C3%BAde.pdf))
 
 
 # Fundamentação Teórica
@@ -76,11 +76,14 @@ O aprofundamento sobre os mecanismos moleculares e genéticos, como por análise
 
 # Ferramentas
 
-> Utilizaremos as seguintes ferramentas:
+> Utilizamos as seguintes ferramentas nessa etapa:
 
- - Cytoscape: será utilizado para gerar grafos das vias metabolicas envolvidas com a osteorose e os alvos mocelulares dos medicamentos e realizar as associações.
- - KEGG: proverá as categorias semânticas das vias analisadas de modo a limitar as análises aos processos mais relacionados à doença.
- - Neo4J: permitirá realizarmos análises mais aprofundadas nas redes para obter padrões e compreender interações entre vias da doença e medicamentos.
+ - Cytoscape: Foi utilizado para gerar grafos das vias metabolicas envolvidas com a osteorose e os alvos mocelulares dos medicamentos e realizar as associações.
+ - David: Nos permitiu obter as categorias semânticas das vias analisadas a partir de genes alvo de modo a limitar as análises aos processos mais relacionados à doença.
+ - Python: Nos permitiu realizar análises mais aprofundadas nas redes para obter padrões e compreender interações entre vias da doença e medicamentos.
+ - Orange: Para montar os workflows de processamento
+ - Biogrid: Para obter a informação de interação entre genes
+ - Bioquimio: Para obter genes alvo dos medicamentos
 
 # Referências Bibliográficas
 
