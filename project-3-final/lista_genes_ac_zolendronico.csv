@@ -1,0 +1,59 @@
+UniProt_ID,Proteína,Gene,Entrez_ID
+Q13315,Serine-protein kinase ATM,ATM,472
+Q99685,Monoglyceride lipase,MGLL,11343
+P14324,Farnesyl pyrophosphate synthase,FDPS,2224
+P68400,Casein kinase II subunit alpha,CSNK2A1,1457
+P00749,Urokinase-type plasminogen activator,PLAU,5328
+Q05513,Protein kinase C zeta type,PRKCZ,5590
+P14416,D(2) dopamine receptor,DRD2,1813
+P29597,Non-receptor tyrosine-protein kinase TYK2,TYK2,7297
+O96017,Serine/threonine-protein kinase Chk2,CHEK2,11200
+P08581,Hepatocyte growth factor receptor,MET,4233
+P07339,Cathepsin D,CTSD,1509
+P27361,Mitogen-activated protein kinase 3,MAPK3,5595
+Q03181,Peroxisome proliferator-activated receptor delta,PPARD,5467
+P49840,Glycogen synthase kinase-3 alpha,GSK3A,2931
+O75874,Isocitrate dehydrogenase [NADP] cytoplasmic,IDH1,3417
+O43497,Voltage-dependent T-type calcium channel subunit alpha-1G,CACNA1G,8913
+P14679,Tyrosinase,TYR,7299
+P28482,Mitogen-activated protein kinase 1,MAPK1,5594
+P78527,DNA-dependent protein kinase catalytic subunit,PRKDC,5591
+P00533,Epidermal growth factor receptor,EGFR,1956
+Q02127,"Dihydroorotate dehydrogenase (quinone), mitochondrial",DHODH,1723
+P04629,High affinity nerve growth factor receptor,NTRK1,4914
+P53350,Serine/threonine-protein kinase PLK1,PLK1,5347
+P51955,Serine/threonine-protein kinase Nek2,NEK2,4751
+Q07869,Peroxisome proliferator-activated receptor alpha,PPARA,5465
+O95749,Geranylgeranyl pyrophosphate synthase,GGPS1,9453
+P31751,RAC-beta serine/threonine-protein kinase,AKT2,208
+Q05397,Focal adhesion kinase 1,PTK2,5747
+Q13153,Serine/threonine-protein kinase PAK 1,PAK1,5058
+Q9Y233,"cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A",PDE10A,10846
+P00915,Carbonic anhydrase 1,CA1,759
+Q01959,Sodium-dependent dopamine transporter,SLC6A3,6531
+P23458,Tyrosine-protein kinase JAK1,JAK1,3716
+Q9UM73,ALK tyrosine kinase receptor,ALK,238
+P35372,Mu-type opioid receptor,OPRM1,4988
+Q06124,Tyrosine-protein phosphatase non-receptor type 11,PTPN11,5781
+O00408,"cGMP-dependent 3',5'-cyclic phosphodiesterase",PDE2A,5138
+Q13627,Dual specificity tyrosine-phosphorylation-regulated kinase 1A,DYRK1A,1859
+Q13946,"High affinity 3',5'-cyclic-AMP phosphodiesterase 7A",PDE7A,5150
+Q8TEK3,"Histone-lysine N-methyltransferase, H3 lysine-79 specific",DOT1L,84444
+Q14432,"cGMP-inhibited 3',5'-cyclic phosphodiesterase 3A",PDE3A,5139
+P34913,Bifunctional epoxide hydrolase 2,EPHX2,2053
+P51812,Ribosomal protein S6 kinase alpha-3,RPS6KA3,6197
+P10275,Androgen receptor,AR,367
+P07900,Heat shock protein HSP 90-alpha,HSP90AA1,3320
+P41743,Protein kinase C iota type,PRKCI,5584
+P36888,Receptor-type tyrosine-protein kinase FLT3,FLT3,2322
+P06870,Kallikrein-1,KLK1,3816
+P12821,Angiotensin-converting enzyme,ACE,1636
+P30530,Tyrosine-protein kinase receptor UFO,AXL,558
+P36544,Neuronal acetylcholine receptor subunit alpha-7,CHRNA7,1139
+P15538,"Cytochrome P450 11B1, mitochondrial",CYP11B1,1584
+P14902,"Indoleamine 2,3-dioxygenase 1",IDO1,3620
+Q16853,Amine oxidase [copper-containing] 3,AOC3,8639
+P23975,Sodium-dependent noradrenaline transporter,SLC6A2,6530
+O00329,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform",PIK3CD,5293
+Q13535,Serine/threonine-protein kinase ATR,ATR,545
+O95180,Voltage-dependent T-type calcium channel subunit alpha-1H,CACNA1H,8912

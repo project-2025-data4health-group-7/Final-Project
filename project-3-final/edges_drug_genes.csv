@@ -1,0 +1,222 @@
+source,target,interaction
+Zolendronic Acid,RET,targets
+Zolendronic Acid,ATM,targets
+Zolendronic Acid,MGLL,targets
+Zolendronic Acid,FDPS,targets
+Zolendronic Acid,CSNK2A1,targets
+Zolendronic Acid,PLAU,targets
+Zolendronic Acid,PRKCZ,targets
+Zolendronic Acid,DRD2,targets
+Zolendronic Acid,TYK2,targets
+Zolendronic Acid,CHEK2,targets
+Zolendronic Acid,MET,targets
+Zolendronic Acid,CTSD,targets
+Zolendronic Acid,MAPK3,targets
+Zolendronic Acid,PPARD,targets
+Zolendronic Acid,GSK3A,targets
+Zolendronic Acid,IDH1,targets
+Zolendronic Acid,CACNA1G,targets
+Zolendronic Acid,TYR,targets
+Zolendronic Acid,MAPK1,targets
+Zolendronic Acid,PRKDC,targets
+Zolendronic Acid,EGFR,targets
+Zolendronic Acid,DHODH,targets
+Zolendronic Acid,NTRK1,targets
+Zolendronic Acid,PLK1,targets
+Zolendronic Acid,NEK2,targets
+Zolendronic Acid,PPARA,targets
+Zolendronic Acid,GGPS1,targets
+Zolendronic Acid,AKT2,targets
+Zolendronic Acid,PTK2,targets
+Zolendronic Acid,PAK1,targets
+Zolendronic Acid,PDE10A,targets
+Zolendronic Acid,CA1,targets
+Zolendronic Acid,SLC6A3,targets
+Zolendronic Acid,JAK1,targets
+Zolendronic Acid,ALK,targets
+Zolendronic Acid,OPRM1,targets
+Zolendronic Acid,PTPN11,targets
+Zolendronic Acid,PDE2A,targets
+Zolendronic Acid,DYRK1A,targets
+Zolendronic Acid,PDE7A,targets
+Zolendronic Acid,DOT1L,targets
+Zolendronic Acid,PDE3A,targets
+Zolendronic Acid,EPHX2,targets
+Zolendronic Acid,RPS6KA3,targets
+Zolendronic Acid,AR,targets
+Zolendronic Acid,HSP90AA1,targets
+Zolendronic Acid,PRKCI,targets
+Zolendronic Acid,FLT3,targets
+Zolendronic Acid,KLK1,targets
+Zolendronic Acid,ACE,targets
+Zolendronic Acid,AXL,targets
+Zolendronic Acid,CHRNA7,targets
+Zolendronic Acid,CYP11B1,targets
+Zolendronic Acid,IDO1,targets
+Zolendronic Acid,AOC3,targets
+Zolendronic Acid,SLC6A2,targets
+Zolendronic Acid,PIK3CD,targets
+Zolendronic Acid,ATR,targets
+Zolendronic Acid,CACNA1H,targets
+Aledronate,RET,targets
+Aledronate,ATM,targets
+Aledronate,MGLL,targets
+Aledronate,FDPS,targets
+Aledronate,CSNK2A1,targets
+Aledronate,PLAU,targets
+Aledronate,PTGS2,targets
+Aledronate,DRD2,targets
+Aledronate,TYK2,targets
+Aledronate,CHEK2,targets
+Aledronate,MET,targets
+Aledronate,CTSD,targets
+Aledronate,MAPK3,targets
+Aledronate,PPARD,targets
+Aledronate,GSK3A,targets
+Aledronate,IDH1,targets
+Aledronate,CACNA1G,targets
+Aledronate,MAPK1,targets
+Aledronate,GRK2,targets
+Aledronate,PRKDC,targets
+Aledronate,EGFR,targets
+Aledronate,NTRK1,targets
+Aledronate,KDM1A,targets
+Aledronate,NEK2,targets
+Aledronate,PPARA,targets
+Aledronate,CHRM2,targets
+Aledronate,GGPS1,targets
+Aledronate,AKT2,targets
+Aledronate,LDHA,targets
+Aledronate,PTK2,targets
+Aledronate,PAK1,targets
+Aledronate,CA1,targets
+Aledronate,CYP2C8,targets
+Aledronate,SLC6A3,targets
+Aledronate,JAK1,targets
+Aledronate,ALK,targets
+Aledronate,OPRM1,targets
+Aledronate,PTPN11,targets
+Aledronate,DYRK1A,targets
+Aledronate,PDE7A,targets
+Aledronate,DOT1L,targets
+Aledronate,PDE3A,targets
+Aledronate,EPHX2,targets
+Aledronate,RPS6KA3,targets
+Aledronate,AR,targets
+Aledronate,PRKCI,targets
+Aledronate,FLT3,targets
+Aledronate,KLK1,targets
+Aledronate,ACE,targets
+Aledronate,AXL,targets
+Aledronate,CHRNA7,targets
+Aledronate,CYP11B1,targets
+Aledronate,AOC3,targets
+Aledronate,SLC6A2,targets
+Aledronate,PIK3CD,targets
+Aledronate,ATR,targets
+Aledronate,SLC6A4,targets
+Aledronate,CACNA1H,targets
+Raloxifeno,PDE5A,targets
+Raloxifeno,KDR,targets
+Raloxifeno,RET,targets
+Raloxifeno,ATM,targets
+Raloxifeno,MGLL,targets
+Raloxifeno,CSNK2A1,targets
+Raloxifeno,PLAU,targets
+Raloxifeno,GSK3B,targets
+Raloxifeno,PRKCZ,targets
+Raloxifeno,DRD2,targets
+Raloxifeno,TYK2,targets
+Raloxifeno,RORC,targets
+Raloxifeno,ABL1,targets
+Raloxifeno,CHEK2,targets
+Raloxifeno,MET,targets
+Raloxifeno,CTSD,targets
+Raloxifeno,SRC,targets
+Raloxifeno,MAPK3,targets
+Raloxifeno,PPARD,targets
+Raloxifeno,GSK3A,targets
+Raloxifeno,IDH1,targets
+Raloxifeno,CACNA1G,targets
+Raloxifeno,PDE4D,targets
+Raloxifeno,F7,targets
+Raloxifeno,MAPK1,targets
+Raloxifeno,GRK2,targets
+Raloxifeno,PRKDC,targets
+Raloxifeno,EGFR,targets
+Raloxifeno,DHODH,targets
+Raloxifeno,NTRK1,targets
+Raloxifeno,KDM1A,targets
+Raloxifeno,PLK1,targets
+Raloxifeno,NEK2,targets
+Raloxifeno,PTGS1,targets
+Raloxifeno,BTK,targets
+Raloxifeno,PPARA,targets
+Raloxifeno,KLKB1,targets
+Raloxifeno,PIK3CA,targets
+Raloxifeno,CHRM2,targets
+Raloxifeno,AKT2,targets
+Raloxifeno,ELANE,targets
+Raloxifeno,ALOX5,targets
+Raloxifeno,LDHA,targets
+Raloxifeno,ACHE,targets
+Raloxifeno,ESR2,targets
+Raloxifeno,PDE4B,targets
+Raloxifeno,CYP2C9,targets
+Raloxifeno,CYP19A1,targets
+Raloxifeno,PIK3CB,targets
+Raloxifeno,JAK2,targets
+Raloxifeno,PTK2,targets
+Raloxifeno,PAK1,targets
+Raloxifeno,PDE10A,targets
+Raloxifeno,AURKB,targets
+Raloxifeno,CA1,targets
+Raloxifeno,LCK,targets
+Raloxifeno,SLC6A3,targets
+Raloxifeno,JAK1,targets
+Raloxifeno,CYP2C19,targets
+Raloxifeno,CDK2,targets
+Raloxifeno,ADORA2A,targets
+Raloxifeno,ALK,targets
+Raloxifeno,F10,targets
+Raloxifeno,OPRM1,targets
+Raloxifeno,PTPN11,targets
+Raloxifeno,BCHE,targets
+Raloxifeno,PIK3CG,targets
+Raloxifeno,PDE2A,targets
+Raloxifeno,PPARG,targets
+Raloxifeno,DYRK1A,targets
+Raloxifeno,MAPK14,targets
+Raloxifeno,PDE7A,targets
+Raloxifeno,DOT1L,targets
+Raloxifeno,PDE3A,targets
+Raloxifeno,EPHX2,targets
+Raloxifeno,RPS6KA3,targets
+Raloxifeno,CYP3A4,targets
+Raloxifeno,F2,targets
+Raloxifeno,FGFR1,targets
+Raloxifeno,AR,targets
+Raloxifeno,ATG4B,targets
+Raloxifeno,HSP90AA1,targets
+Raloxifeno,PRKCI,targets
+Raloxifeno,JAK3,targets
+Raloxifeno,FLT3,targets
+Raloxifeno,KLK1,targets
+Raloxifeno,ACE,targets
+Raloxifeno,AXL,targets
+Raloxifeno,CHRNA7,targets
+Raloxifeno,AURKA,targets
+Raloxifeno,MAOA,targets
+Raloxifeno,MTOR,targets
+Raloxifeno,MAPK8,targets
+Raloxifeno,CYP11B1,targets
+Raloxifeno,IDO1,targets
+Raloxifeno,BRAF,targets
+Raloxifeno,AOC3,targets
+Raloxifeno,BRD4,targets
+Raloxifeno,SLC6A2,targets
+Raloxifeno,ESR1,targets
+Raloxifeno,PIK3CD,targets
+Raloxifeno,ATR,targets
+Raloxifeno,SLC6A4,targets
+Raloxifeno,CACNA1H,targets

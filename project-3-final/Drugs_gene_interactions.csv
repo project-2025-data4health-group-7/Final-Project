@@ -1,0 +1,222 @@
+Drug,UniprotID,proteína,gene
+Zolendronic Acid,P07949,Proto-oncogene tyrosine-protein kinase receptor Ret,RET
+Zolendronic Acid,Q13315,Serine-protein kinase ATM,ATM
+Zolendronic Acid,Q99685,Monoglyceride lipase,MGLL
+Zolendronic Acid,P14324,Farnesyl pyrophosphate synthase,FDPS
+Zolendronic Acid,P68400,Casein kinase II subunit alpha,CSNK2A1
+Zolendronic Acid,P00749,Urokinase-type plasminogen activator,PLAU
+Zolendronic Acid,Q05513,Protein kinase C zeta type,PRKCZ
+Zolendronic Acid,P14416,D(2) dopamine receptor,DRD2
+Zolendronic Acid,P29597,Non-receptor tyrosine-protein kinase TYK2,TYK2
+Zolendronic Acid,O96017,Serine/threonine-protein kinase Chk2,CHEK2
+Zolendronic Acid,P08581,Hepatocyte growth factor receptor,MET
+Zolendronic Acid,P07339,Cathepsin D,CTSD
+Zolendronic Acid,P27361,Mitogen-activated protein kinase 3,MAPK3
+Zolendronic Acid,Q03181,Peroxisome proliferator-activated receptor delta,PPARD
+Zolendronic Acid,P49840,Glycogen synthase kinase-3 alpha,GSK3A
+Zolendronic Acid,O75874,Isocitrate dehydrogenase [NADP] cytoplasmic,IDH1
+Zolendronic Acid,O43497,Voltage-dependent T-type calcium channel subunit alpha-1G,CACNA1G
+Zolendronic Acid,P14679,Tyrosinase,TYR
+Zolendronic Acid,P28482,Mitogen-activated protein kinase 1,MAPK1
+Zolendronic Acid,P78527,DNA-dependent protein kinase catalytic subunit,PRKDC
+Zolendronic Acid,P00533,Epidermal growth factor receptor,EGFR
+Zolendronic Acid,Q02127,"Dihydroorotate dehydrogenase (quinone), mitochondrial",DHODH
+Zolendronic Acid,P04629,High affinity nerve growth factor receptor,NTRK1
+Zolendronic Acid,P53350,Serine/threonine-protein kinase PLK1,PLK1
+Zolendronic Acid,P51955,Serine/threonine-protein kinase Nek2,NEK2
+Zolendronic Acid,Q07869,Peroxisome proliferator-activated receptor alpha,PPARA
+Zolendronic Acid,O95749,Geranylgeranyl pyrophosphate synthase,GGPS1
+Zolendronic Acid,P31751,RAC-beta serine/threonine-protein kinase,AKT2
+Zolendronic Acid,Q05397,Focal adhesion kinase 1,PTK2
+Zolendronic Acid,Q13153,Serine/threonine-protein kinase PAK 1,PAK1
+Zolendronic Acid,Q9Y233,"cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A",PDE10A
+Zolendronic Acid,P00915,Carbonic anhydrase 1,CA1
+Zolendronic Acid,Q01959,Sodium-dependent dopamine transporter,SLC6A3
+Zolendronic Acid,P23458,Tyrosine-protein kinase JAK1,JAK1
+Zolendronic Acid,Q9UM73,ALK tyrosine kinase receptor,ALK
+Zolendronic Acid,P35372,Mu-type opioid receptor,OPRM1
+Zolendronic Acid,Q06124,Tyrosine-protein phosphatase non-receptor type 11,PTPN11
+Zolendronic Acid,O00408,"cGMP-dependent 3',5'-cyclic phosphodiesterase",PDE2A
+Zolendronic Acid,Q13627,Dual specificity tyrosine-phosphorylation-regulated kinase 1A,DYRK1A
+Zolendronic Acid,Q13946,"High affinity 3',5'-cyclic-AMP phosphodiesterase 7A",PDE7A
+Zolendronic Acid,Q8TEK3,"Histone-lysine N-methyltransferase, H3 lysine-79 specific",DOT1L
+Zolendronic Acid,Q14432,"cGMP-inhibited 3',5'-cyclic phosphodiesterase 3A",PDE3A
+Zolendronic Acid,P34913,Bifunctional epoxide hydrolase 2,EPHX2
+Zolendronic Acid,P51812,Ribosomal protein S6 kinase alpha-3,RPS6KA3
+Zolendronic Acid,P10275,Androgen receptor,AR
+Zolendronic Acid,P07900,Heat shock protein HSP 90-alpha,HSP90AA1
+Zolendronic Acid,P41743,Protein kinase C iota type,PRKCI
+Zolendronic Acid,P36888,Receptor-type tyrosine-protein kinase FLT3,FLT3
+Zolendronic Acid,P06870,Kallikrein-1,KLK1
+Zolendronic Acid,P12821,Angiotensin-converting enzyme,ACE
+Zolendronic Acid,P30530,Tyrosine-protein kinase receptor UFO,AXL
+Zolendronic Acid,P36544,Neuronal acetylcholine receptor subunit alpha-7,CHRNA7
+Zolendronic Acid,P15538,"Cytochrome P450 11B1, mitochondrial",CYP11B1
+Zolendronic Acid,P14902,"Indoleamine 2,3-dioxygenase 1",IDO1
+Zolendronic Acid,Q16853,Amine oxidase [copper-containing] 3,AOC3
+Zolendronic Acid,P23975,Sodium-dependent noradrenaline transporter,SLC6A2
+Zolendronic Acid,O00329,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform",PIK3CD
+Zolendronic Acid,Q13535,Serine/threonine-protein kinase ATR,ATR
+Zolendronic Acid,O95180,Voltage-dependent T-type calcium channel subunit alpha-1H,CACNA1H
+Aledronate,P07949,Proto-oncogene tyrosine-protein kinase receptor Ret,RET
+Aledronate,Q13315,Serine-protein kinase ATM,ATM
+Aledronate,Q99685,Monoglyceride lipase,MGLL
+Aledronate,P14324,Farnesyl pyrophosphate synthase,FDPS
+Aledronate,P68400,Casein kinase II subunit alpha,CSNK2A1
+Aledronate,P00749,Urokinase-type plasminogen activator,PLAU
+Aledronate,P35354,Prostaglandin G/H synthase 2,PTGS2
+Aledronate,P14416,D(2) dopamine receptor,DRD2
+Aledronate,P29597,Non-receptor tyrosine-protein kinase TYK2,TYK2
+Aledronate,O96017,Serine/threonine-protein kinase Chk2,CHEK2
+Aledronate,P08581,Hepatocyte growth factor receptor,MET
+Aledronate,P07339,Cathepsin D,CTSD
+Aledronate,P27361,Mitogen-activated protein kinase 3,MAPK3
+Aledronate,Q03181,Peroxisome proliferator-activated receptor delta,PPARD
+Aledronate,P49840,Glycogen synthase kinase-3 alpha,GSK3A
+Aledronate,O75874,Isocitrate dehydrogenase [NADP] cytoplasmic,IDH1
+Aledronate,O43497,Voltage-dependent T-type calcium channel subunit alpha-1G,CACNA1G
+Aledronate,P28482,Mitogen-activated protein kinase 1,MAPK1
+Aledronate,P25098,Beta-adrenergic receptor kinase 1,GRK2
+Aledronate,P78527,DNA-dependent protein kinase catalytic subunit,PRKDC
+Aledronate,P00533,Epidermal growth factor receptor,EGFR
+Aledronate,P04629,High affinity nerve growth factor receptor,NTRK1
+Aledronate,O60341,Lysine-specific histone demethylase 1A,KDM1A
+Aledronate,P51955,Serine/threonine-protein kinase Nek2,NEK2
+Aledronate,Q07869,Peroxisome proliferator-activated receptor alpha,PPARA
+Aledronate,P08172,Muscarinic acetylcholine receptor M2,CHRM2
+Aledronate,O95749,Geranylgeranyl pyrophosphate synthase,GGPS1
+Aledronate,P31751,RAC-beta serine/threonine-protein kinase,AKT2
+Aledronate,P00338,L-lactate dehydrogenase A chain,LDHA
+Aledronate,Q05397,Focal adhesion kinase 1,PTK2
+Aledronate,Q13153,Serine/threonine-protein kinase PAK 1,PAK1
+Aledronate,P00915,Carbonic anhydrase 1,CA1
+Aledronate,P10632,Cytochrome P450 2C8,CYP2C8
+Aledronate,Q01959,Sodium-dependent dopamine transporter,SLC6A3
+Aledronate,P23458,Tyrosine-protein kinase JAK1,JAK1
+Aledronate,Q9UM73,ALK tyrosine kinase receptor,ALK
+Aledronate,P35372,Mu-type opioid receptor,OPRM1
+Aledronate,Q06124,Tyrosine-protein phosphatase non-receptor type 11,PTPN11
+Aledronate,Q13627,Dual specificity tyrosine-phosphorylation-regulated kinase 1A,DYRK1A
+Aledronate,Q13946,"High affinity 3',5'-cyclic-AMP phosphodiesterase 7A",PDE7A
+Aledronate,Q8TEK3,"Histone-lysine N-methyltransferase, H3 lysine-79 specific",DOT1L
+Aledronate,Q14432,"cGMP-inhibited 3',5'-cyclic phosphodiesterase 3A",PDE3A
+Aledronate,P34913,Bifunctional epoxide hydrolase 2,EPHX2
+Aledronate,P51812,Ribosomal protein S6 kinase alpha-3,RPS6KA3
+Aledronate,P10275,Androgen receptor,AR
+Aledronate,P41743,Protein kinase C iota type,PRKCI
+Aledronate,P36888,Receptor-type tyrosine-protein kinase FLT3,FLT3
+Aledronate,P06870,Kallikrein-1,KLK1
+Aledronate,P12821,Angiotensin-converting enzyme,ACE
+Aledronate,P30530,Tyrosine-protein kinase receptor UFO,AXL
+Aledronate,P36544,Neuronal acetylcholine receptor subunit alpha-7,CHRNA7
+Aledronate,P15538,"Cytochrome P450 11B1, mitochondrial",CYP11B1
+Aledronate,Q16853,Amine oxidase [copper-containing] 3,AOC3
+Aledronate,P23975,Sodium-dependent noradrenaline transporter,SLC6A2
+Aledronate,O00329,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform",PIK3CD
+Aledronate,Q13535,Serine/threonine-protein kinase ATR,ATR
+Aledronate,P31645,Sodium-dependent serotonin transporter,SLC6A4
+Aledronate,O95180,Voltage-dependent T-type calcium channel subunit alpha-1H,CACNA1H
+Raloxifeno,O76074,"cGMP-specific 3',5'-cyclic phosphodiesterase",PDE5A
+Raloxifeno,P35968,Vascular endothelial growth factor receptor 2,KDR
+Raloxifeno,P07949,Proto-oncogene tyrosine-protein kinase receptor Ret,RET
+Raloxifeno,Q13315,Serine-protein kinase ATM,ATM
+Raloxifeno,Q99685,Monoglyceride lipase,MGLL
+Raloxifeno,P68400,Casein kinase II subunit alpha,CSNK2A1
+Raloxifeno,P00749,Urokinase-type plasminogen activator,PLAU
+Raloxifeno,P49841,Glycogen synthase kinase-3 beta,GSK3B
+Raloxifeno,Q05513,Protein kinase C zeta type,PRKCZ
+Raloxifeno,P14416,D(2) dopamine receptor,DRD2
+Raloxifeno,P29597,Non-receptor tyrosine-protein kinase TYK2,TYK2
+Raloxifeno,P51449,Nuclear receptor ROR-gamma,RORC
+Raloxifeno,P00519,Tyrosine-protein kinase ABL1,ABL1
+Raloxifeno,O96017,Serine/threonine-protein kinase Chk2,CHEK2
+Raloxifeno,P08581,Hepatocyte growth factor receptor,MET
+Raloxifeno,P07339,Cathepsin D,CTSD
+Raloxifeno,P12931,Proto-oncogene tyrosine-protein kinase Src,SRC
+Raloxifeno,P27361,Mitogen-activated protein kinase 3,MAPK3
+Raloxifeno,Q03181,Peroxisome proliferator-activated receptor delta,PPARD
+Raloxifeno,P49840,Glycogen synthase kinase-3 alpha,GSK3A
+Raloxifeno,O75874,Isocitrate dehydrogenase [NADP] cytoplasmic,IDH1
+Raloxifeno,O43497,Voltage-dependent T-type calcium channel subunit alpha-1G,CACNA1G
+Raloxifeno,Q08499,"3',5'-cyclic-AMP phosphodiesterase 4D",PDE4D
+Raloxifeno,P08709,Coagulation factor VII,F7
+Raloxifeno,P28482,Mitogen-activated protein kinase 1,MAPK1
+Raloxifeno,P25098,Beta-adrenergic receptor kinase 1,GRK2
+Raloxifeno,P78527,DNA-dependent protein kinase catalytic subunit,PRKDC
+Raloxifeno,P00533,Epidermal growth factor receptor,EGFR
+Raloxifeno,Q02127,"Dihydroorotate dehydrogenase (quinone), mitochondrial",DHODH
+Raloxifeno,P04629,High affinity nerve growth factor receptor,NTRK1
+Raloxifeno,O60341,Lysine-specific histone demethylase 1A,KDM1A
+Raloxifeno,P53350,Serine/threonine-protein kinase PLK1,PLK1
+Raloxifeno,P51955,Serine/threonine-protein kinase Nek2,NEK2
+Raloxifeno,P23219,Prostaglandin G/H synthase 1,PTGS1
+Raloxifeno,Q06187,Tyrosine-protein kinase BTK,BTK
+Raloxifeno,Q07869,Peroxisome proliferator-activated receptor alpha,PPARA
+Raloxifeno,P03952,Plasma kallikrein,KLKB1
+Raloxifeno,P42336,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform",PIK3CA
+Raloxifeno,P08172,Muscarinic acetylcholine receptor M2,CHRM2
+Raloxifeno,P31751,RAC-beta serine/threonine-protein kinase,AKT2
+Raloxifeno,P08246,Neutrophil elastase,ELANE
+Raloxifeno,P09917,Polyunsaturated fatty acid 5-lipoxygenase,ALOX5
+Raloxifeno,P00338,L-lactate dehydrogenase A chain,LDHA
+Raloxifeno,P22303,Acetylcholinesterase,ACHE
+Raloxifeno,Q92731,Estrogen receptor beta,ESR2
+Raloxifeno,Q07343,"3',5'-cyclic-AMP phosphodiesterase 4B",PDE4B
+Raloxifeno,P11712,Cytochrome P450 2C9,CYP2C9
+Raloxifeno,P11511,Aromatase,CYP19A1
+Raloxifeno,P42338,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit beta isoform",PIK3CB
+Raloxifeno,O60674,Tyrosine-protein kinase JAK2,JAK2
+Raloxifeno,Q05397,Focal adhesion kinase 1,PTK2
+Raloxifeno,Q13153,Serine/threonine-protein kinase PAK 1,PAK1
+Raloxifeno,Q9Y233,"cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A",PDE10A
+Raloxifeno,Q96GD4,Aurora kinase B,AURKB
+Raloxifeno,P00915,Carbonic anhydrase 1,CA1
+Raloxifeno,P06239,Tyrosine-protein kinase Lck,LCK
+Raloxifeno,Q01959,Sodium-dependent dopamine transporter,SLC6A3
+Raloxifeno,P23458,Tyrosine-protein kinase JAK1,JAK1
+Raloxifeno,P33261,Cytochrome P450 2C19,CYP2C19
+Raloxifeno,P24941,Cyclin-dependent kinase 2,CDK2
+Raloxifeno,P29274,Adenosine receptor A2a,ADORA2A
+Raloxifeno,Q9UM73,ALK tyrosine kinase receptor,ALK
+Raloxifeno,P00742,Coagulation factor X,F10
+Raloxifeno,P35372,Mu-type opioid receptor,OPRM1
+Raloxifeno,Q06124,Tyrosine-protein phosphatase non-receptor type 11,PTPN11
+Raloxifeno,P06276,Cholinesterase,BCHE
+Raloxifeno,P48736,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform",PIK3CG
+Raloxifeno,O00408,"cGMP-dependent 3',5'-cyclic phosphodiesterase",PDE2A
+Raloxifeno,P37231,Peroxisome proliferator-activated receptor gamma,PPARG
+Raloxifeno,Q13627,Dual specificity tyrosine-phosphorylation-regulated kinase 1A,DYRK1A
+Raloxifeno,Q16539,Mitogen-activated protein kinase 14,MAPK14
+Raloxifeno,Q13946,"High affinity 3',5'-cyclic-AMP phosphodiesterase 7A",PDE7A
+Raloxifeno,Q8TEK3,"Histone-lysine N-methyltransferase, H3 lysine-79 specific",DOT1L
+Raloxifeno,Q14432,"cGMP-inhibited 3',5'-cyclic phosphodiesterase 3A",PDE3A
+Raloxifeno,P34913,Bifunctional epoxide hydrolase 2,EPHX2
+Raloxifeno,P51812,Ribosomal protein S6 kinase alpha-3,RPS6KA3
+Raloxifeno,P08684,Cytochrome P450 3A4,CYP3A4
+Raloxifeno,P00734,Prothrombin,F2
+Raloxifeno,P11362,Fibroblast growth factor receptor 1,FGFR1
+Raloxifeno,P10275,Androgen receptor,AR
+Raloxifeno,Q9Y4P1,Cysteine protease ATG4B,ATG4B
+Raloxifeno,P07900,Heat shock protein HSP 90-alpha,HSP90AA1
+Raloxifeno,P41743,Protein kinase C iota type,PRKCI
+Raloxifeno,P52333,Tyrosine-protein kinase JAK3,JAK3
+Raloxifeno,P36888,Receptor-type tyrosine-protein kinase FLT3,FLT3
+Raloxifeno,P06870,Kallikrein-1,KLK1
+Raloxifeno,P12821,Angiotensin-converting enzyme,ACE
+Raloxifeno,P30530,Tyrosine-protein kinase receptor UFO,AXL
+Raloxifeno,P36544,Neuronal acetylcholine receptor subunit alpha-7,CHRNA7
+Raloxifeno,O14965,Aurora kinase A,AURKA
+Raloxifeno,P21397,Amine oxidase [flavin-containing] A,MAOA
+Raloxifeno,P42345,Serine/threonine-protein kinase mTOR,MTOR
+Raloxifeno,P45983,Mitogen-activated protein kinase 8,MAPK8
+Raloxifeno,P15538,"Cytochrome P450 11B1, mitochondrial",CYP11B1
+Raloxifeno,P14902,"Indoleamine 2,3-dioxygenase 1",IDO1
+Raloxifeno,P15056,Serine/threonine-protein kinase B-raf,BRAF
+Raloxifeno,Q16853,Amine oxidase [copper-containing] 3,AOC3
+Raloxifeno,O60885,Bromodomain-containing protein 4,BRD4
+Raloxifeno,P23975,Sodium-dependent noradrenaline transporter,SLC6A2
+Raloxifeno,P03372,Estrogen receptor,ESR1
+Raloxifeno,O00329,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform",PIK3CD
+Raloxifeno,Q13535,Serine/threonine-protein kinase ATR,ATR
+Raloxifeno,P31645,Sodium-dependent serotonin transporter,SLC6A4
+Raloxifeno,O95180,Voltage-dependent T-type calcium channel subunit alpha-1H,CACNA1H

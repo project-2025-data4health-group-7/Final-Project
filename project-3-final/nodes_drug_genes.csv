@@ -1,0 +1,113 @@
+id,type,UniprotID,protein_name
+Zolendronic Acid,Drug,,
+Aledronate,Drug,,
+Raloxifeno,Drug,,
+RET,Gene,P07949,Proto-oncogene tyrosine-protein kinase receptor Ret
+ATM,Gene,Q13315,Serine-protein kinase ATM
+MGLL,Gene,Q99685,Monoglyceride lipase
+FDPS,Gene,P14324,Farnesyl pyrophosphate synthase
+CSNK2A1,Gene,P68400,Casein kinase II subunit alpha
+PLAU,Gene,P00749,Urokinase-type plasminogen activator
+PRKCZ,Gene,Q05513,Protein kinase C zeta type
+DRD2,Gene,P14416,D(2) dopamine receptor
+TYK2,Gene,P29597,Non-receptor tyrosine-protein kinase TYK2
+CHEK2,Gene,O96017,Serine/threonine-protein kinase Chk2
+MET,Gene,P08581,Hepatocyte growth factor receptor
+CTSD,Gene,P07339,Cathepsin D
+MAPK3,Gene,P27361,Mitogen-activated protein kinase 3
+PPARD,Gene,Q03181,Peroxisome proliferator-activated receptor delta
+GSK3A,Gene,P49840,Glycogen synthase kinase-3 alpha
+IDH1,Gene,O75874,Isocitrate dehydrogenase [NADP] cytoplasmic
+CACNA1G,Gene,O43497,Voltage-dependent T-type calcium channel subunit alpha-1G
+TYR,Gene,P14679,Tyrosinase
+MAPK1,Gene,P28482,Mitogen-activated protein kinase 1
+PRKDC,Gene,P78527,DNA-dependent protein kinase catalytic subunit
+EGFR,Gene,P00533,Epidermal growth factor receptor
+DHODH,Gene,Q02127,"Dihydroorotate dehydrogenase (quinone), mitochondrial"
+NTRK1,Gene,P04629,High affinity nerve growth factor receptor
+PLK1,Gene,P53350,Serine/threonine-protein kinase PLK1
+NEK2,Gene,P51955,Serine/threonine-protein kinase Nek2
+PPARA,Gene,Q07869,Peroxisome proliferator-activated receptor alpha
+GGPS1,Gene,O95749,Geranylgeranyl pyrophosphate synthase
+AKT2,Gene,P31751,RAC-beta serine/threonine-protein kinase
+PTK2,Gene,Q05397,Focal adhesion kinase 1
+PAK1,Gene,Q13153,Serine/threonine-protein kinase PAK 1
+PDE10A,Gene,Q9Y233,"cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A"
+CA1,Gene,P00915,Carbonic anhydrase 1
+SLC6A3,Gene,Q01959,Sodium-dependent dopamine transporter
+JAK1,Gene,P23458,Tyrosine-protein kinase JAK1
+ALK,Gene,Q9UM73,ALK tyrosine kinase receptor
+OPRM1,Gene,P35372,Mu-type opioid receptor
+PTPN11,Gene,Q06124,Tyrosine-protein phosphatase non-receptor type 11
+PDE2A,Gene,O00408,"cGMP-dependent 3',5'-cyclic phosphodiesterase"
+DYRK1A,Gene,Q13627,Dual specificity tyrosine-phosphorylation-regulated kinase 1A
+PDE7A,Gene,Q13946,"High affinity 3',5'-cyclic-AMP phosphodiesterase 7A"
+DOT1L,Gene,Q8TEK3,"Histone-lysine N-methyltransferase, H3 lysine-79 specific"
+PDE3A,Gene,Q14432,"cGMP-inhibited 3',5'-cyclic phosphodiesterase 3A"
+EPHX2,Gene,P34913,Bifunctional epoxide hydrolase 2
+RPS6KA3,Gene,P51812,Ribosomal protein S6 kinase alpha-3
+AR,Gene,P10275,Androgen receptor
+HSP90AA1,Gene,P07900,Heat shock protein HSP 90-alpha
+PRKCI,Gene,P41743,Protein kinase C iota type
+FLT3,Gene,P36888,Receptor-type tyrosine-protein kinase FLT3
+KLK1,Gene,P06870,Kallikrein-1
+ACE,Gene,P12821,Angiotensin-converting enzyme
+AXL,Gene,P30530,Tyrosine-protein kinase receptor UFO
+CHRNA7,Gene,P36544,Neuronal acetylcholine receptor subunit alpha-7
+CYP11B1,Gene,P15538,"Cytochrome P450 11B1, mitochondrial"
+IDO1,Gene,P14902,"Indoleamine 2,3-dioxygenase 1"
+AOC3,Gene,Q16853,Amine oxidase [copper-containing] 3
+SLC6A2,Gene,P23975,Sodium-dependent noradrenaline transporter
+PIK3CD,Gene,O00329,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform"
+ATR,Gene,Q13535,Serine/threonine-protein kinase ATR
+CACNA1H,Gene,O95180,Voltage-dependent T-type calcium channel subunit alpha-1H
+PTGS2,Gene,P35354,Prostaglandin G/H synthase 2
+GRK2,Gene,P25098,Beta-adrenergic receptor kinase 1
+KDM1A,Gene,O60341,Lysine-specific histone demethylase 1A
+CHRM2,Gene,P08172,Muscarinic acetylcholine receptor M2
+LDHA,Gene,P00338,L-lactate dehydrogenase A chain
+CYP2C8,Gene,P10632,Cytochrome P450 2C8
+SLC6A4,Gene,P31645,Sodium-dependent serotonin transporter
+PDE5A,Gene,O76074,"cGMP-specific 3',5'-cyclic phosphodiesterase"
+KDR,Gene,P35968,Vascular endothelial growth factor receptor 2
+GSK3B,Gene,P49841,Glycogen synthase kinase-3 beta
+RORC,Gene,P51449,Nuclear receptor ROR-gamma
+ABL1,Gene,P00519,Tyrosine-protein kinase ABL1
+SRC,Gene,P12931,Proto-oncogene tyrosine-protein kinase Src
+PDE4D,Gene,Q08499,"3',5'-cyclic-AMP phosphodiesterase 4D"
+F7,Gene,P08709,Coagulation factor VII
+PTGS1,Gene,P23219,Prostaglandin G/H synthase 1
+BTK,Gene,Q06187,Tyrosine-protein kinase BTK
+KLKB1,Gene,P03952,Plasma kallikrein
+PIK3CA,Gene,P42336,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform"
+ELANE,Gene,P08246,Neutrophil elastase
+ALOX5,Gene,P09917,Polyunsaturated fatty acid 5-lipoxygenase
+ACHE,Gene,P22303,Acetylcholinesterase
+ESR2,Gene,Q92731,Estrogen receptor beta
+PDE4B,Gene,Q07343,"3',5'-cyclic-AMP phosphodiesterase 4B"
+CYP2C9,Gene,P11712,Cytochrome P450 2C9
+CYP19A1,Gene,P11511,Aromatase
+PIK3CB,Gene,P42338,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit beta isoform"
+JAK2,Gene,O60674,Tyrosine-protein kinase JAK2
+AURKB,Gene,Q96GD4,Aurora kinase B
+LCK,Gene,P06239,Tyrosine-protein kinase Lck
+CYP2C19,Gene,P33261,Cytochrome P450 2C19
+CDK2,Gene,P24941,Cyclin-dependent kinase 2
+ADORA2A,Gene,P29274,Adenosine receptor A2a
+F10,Gene,P00742,Coagulation factor X
+BCHE,Gene,P06276,Cholinesterase
+PIK3CG,Gene,P48736,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform"
+PPARG,Gene,P37231,Peroxisome proliferator-activated receptor gamma
+MAPK14,Gene,Q16539,Mitogen-activated protein kinase 14
+CYP3A4,Gene,P08684,Cytochrome P450 3A4
+F2,Gene,P00734,Prothrombin
+FGFR1,Gene,P11362,Fibroblast growth factor receptor 1
+ATG4B,Gene,Q9Y4P1,Cysteine protease ATG4B
+JAK3,Gene,P52333,Tyrosine-protein kinase JAK3
+AURKA,Gene,O14965,Aurora kinase A
+MAOA,Gene,P21397,Amine oxidase [flavin-containing] A
+MTOR,Gene,P42345,Serine/threonine-protein kinase mTOR
+MAPK8,Gene,P45983,Mitogen-activated protein kinase 8
+BRAF,Gene,P15056,Serine/threonine-protein kinase B-raf
+BRD4,Gene,O60885,Bromodomain-containing protein 4
+ESR1,Gene,P03372,Estrogen receptor
