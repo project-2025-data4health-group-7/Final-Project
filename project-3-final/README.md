@@ -31,7 +31,7 @@ No modelo a seguir são colocados exemplos ilustrativos, que serão substituído
 
 # Slides
 
-> Coloque aqui o link para o PDF da apresentação da parte 3.
+> Coloque aqui o link para o PDF da apresentação da parte 3. [slides](https://docs.google.com/presentation/d/1ABkZJXuhD2PlumyJgdT1ZawCTzKFUEUfxUkFQiU-2rU/edit?slide=id.g3a2a775276a_0_0)
 
 # Fundamentação Teórica
 
