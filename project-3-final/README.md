@@ -77,11 +77,10 @@ Já para a obtenção das interações entre os genes foi utilizado o banco de d
 ### 2.2 Modelo Lógico
 Para construir nossa rede, primeiro identificamos os tipos de entidades e as relações entre elas que desejamos visualizar. As amostras, doença, drogas, genes e vias de sinalização relacionam-se conforme o modelo da figura 1.
 
-![project-3-final/data/Captura de tela 2025-11-24 220546.png
-**Figura 01. Modelo lógico das redes**  
 
-![project-3-final/data/Captura de tela 2025-11-24 220555.png
-**Figura 02. Modelo da representação dos genes que são alvos dos medicamentos e que compõem as vias de sinalização envolvidas com genes diferencialmente expressos. Onde, o medicamento está representado por um losango (roxo), vias de sinalização como flechas para baixo (azul), genes diferentemente expressos positivamente como triângulos para cima (verde) e negativamente como triângulos para baixo (vermelho) e demais genes como elipses (bege).**
+![Figura 01. Modelo lógico das redes](data/primeira_foto.png)
+
+![Figura 02. Modelo da representação dos genes que são alvos dos medicamentos e que compõem as vias de sinalização envolvidas com genes diferencialmente expressos. Onde, o medicamento está representado por um losango (roxo), vias de sinalização como flechas para baixo (azul), genes diferentemente expressos positivamente como triângulos para cima (verde) e negativamente como triângulos para baixo (vermelho) e demais genes como elipses (bege)](data/segunda_foto.png)
 
 ---
 
