@@ -45,7 +45,7 @@ Diante desse cenário, o presente estudo torna-se particularmente relevante. Ao 
 
 
 
-## Metodologia (B)
+## Metodologia
 A metodologia deste trabalho foi planejada visando atingir o objetivo de identificação dos genes que participam da patologia da osteoporose e de que forma os medicamentos atuam visando atingi-los e, dessa forma, mitigar a doença. Para isso buscou-se na literatura trabalhos que se alinhassem com a proposta do projeto para a identificação das ferramentas mais utilizadas e procedimentos experimentais validados para aplicação no trabalho.
 
 ### 2.1 Bases de dados e Evolução
@@ -78,10 +78,13 @@ Já para a obtenção das interações entre os genes foi utilizado o banco de d
 Para construir nossa rede, primeiro identificamos os tipos de entidades e as relações entre elas que desejamos visualizar. As amostras, doença, drogas, genes e vias de sinalização relacionam-se conforme o modelo da figura 1.
 
 
-![Figura 01. Modelo lógico das redes](data/primeira_foto.png)
+![Figura01](assets/primeira_foto.png)
+Figura 01. Modelo lógico das redes
 
-![Figura 02. Modelo da representação dos genes que são alvos dos medicamentos e que compõem as vias de sinalização envolvidas com genes diferencialmente expressos. Onde, o medicamento está representado por um losango (roxo), vias de sinalização como flechas para baixo (azul), genes diferentemente expressos positivamente como triângulos para cima (verde) e negativamente como triângulos para baixo (vermelho) e demais genes como elipses (bege)](data/segunda_foto.png)
+A partir das análises dos dados coletados decidimos apresentá-los correlacionando a expressão diferencial dos genes, em amostras de pacientes saudáveis e com a doenças, com os genes das vias onde os medicamentos são alvos, incluindo todos os genes das vias de sinalização a que pertencem. A figura 2 detalha o modelo desta visualização.
 
+![Figura02](assets/segunda_foto.png)
+Figura 02. Modelo da representação dos genes que são alvos dos medicamentos e que compõem as vias de sinalização envolvidas com genes diferencialmente expressos. Onde, o medicamento está representado por um losango (roxo), vias de sinalização como flechas para baixo (azul), genes diferentemente expressos positivamente como triângulos para cima (verde) e negativamente como triângulos para baixo (vermelho) e demais genes como elipses (bege)
 ---
 
 ### 2.3 Integração entre Bases
@@ -95,6 +98,13 @@ Seguimos apenas com as vias em que foram encontrados genes diferencialmente expr
 ### 2.4 Análises Realizadas
 Integração dos resultados  
 As vias de sinalização comuns e específicas moduladas por Alendronato, Raloxifeno e Ácido Zoledrônico foram comparadas, destacando mecanismos de ação distintos e complementares. O estudo evidenciou a atuação dos medicamentos em vias relacionadas a inflamação, remodelação óssea e sobrevivência celular.
+
+| Droga\Base de Dados | GSE7158 | GSE56814 | GSE56815 |
+|---|---------|---------|---------|
+| Alendronato | ![alendronatoGSE7158](assets/alendronatoGSE7158.png) | ![alendronatoGSE56814](assets/alendronatoGSE56814.png) | ![alendronatoGSE56815](assets/alendronatoGSE56815.png) |
+| Raloxifeno | ![raloxifenoGSE7158](assets/raloxifenoGSE7158.png) | ![raloxifenoGSE56814](assets/raloxifenoGSE56814.png) | ![raloxifenoGSE56815](assets/raloxifenoGSE56815.png) |
+| Zolendroônico | ![zoledronicoE7158](assets/zoledronicoGSE7158.png) | ![zoledronicoGSE56814](assets/zoledronicoGSE56814.png) | ![zoledronicoGSE56815](assets/zoledronicoGSE56815.png) |
+
 
 Análise integrada do dataset GSE56815  
 A fim de comparar de modo aprofundado a correlação entre genes diferencialmente expressos na doença e todos os alvos de medicamentos de modo integrado, selecionamos o dataset maior e mais completo, o GSE56815, realizando algumas análises computacionais adicionais.  
