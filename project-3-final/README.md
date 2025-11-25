@@ -101,7 +101,7 @@ As vias de sinalização comuns e específicas moduladas por Alendronato, Raloxi
 
 | Droga\Base de Dados | GSE7158 | GSE56814 | GSE56815 |
 |---|---------|---------|---------|
-| Alendronato | ![alendronatoGSE7158](assets/alendronatoGSE7158.png) | ![alendronatoGSE56814](assets/alendronatoGSE56814.png) | ![alendronatoGSE56815](assets/alendronatoGSE56815.png) |
+| Alendronato | ![alendronatoGSE7158](https://github.com/project-2025-data4health-group-7/Final-Project/tree/main/project-3-final/assets/alendronatoGSE7158.png) | ![alendronatoGSE56814](https://github.com/project-2025-data4health-group-7/Final-Project/tree/main/project-3-final/assets/alendronatoGSE56814.png) | ![alendronatoGSE56815](https://github.com/project-2025-data4health-group-7/Final-Project/tree/main/project-3-final/assets/alendronatoGSE56815.png) |
 | Raloxifeno | ![raloxifenoGSE7158](assets/raloxifenoGSE7158.png) | ![raloxifenoGSE56814](assets/raloxifenoGSE56814.png) | ![raloxifenoGSE56815](assets/raloxifenoGSE56815.png) |
 | Zolendroônico | ![zoledronicoE7158](assets/zoledronicoGSE7158.png) | ![zoledronicoGSE56814](assets/zoledronicoGSE56814.png) | ![zoledronicoGSE56815](assets/zoledronicoGSE56815.png) |
 
