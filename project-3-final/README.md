@@ -9,7 +9,9 @@
 - Felipe Araújo de Lima - Instituto de Computação
 - Thaynara Beatriz S. de Matos - Instituto de Computação
 
+[Slides](project-3-final\assets\Entrega Final  Osteo - Ciencia e visualização de dados em saúde.pdf)
 
+[Relatorio](project-3-final\assets\Relatorio Final -  Ciencia e visualização de dados em saúde.pdf)
 
 ## Resumo
 Este trabalho apresenta uma análise integrativa sobre a osteoporose, doença caracterizada pela redução da densidade e alterações na microarquitetura óssea, resultando em maior fragilidade dos ossos. Com alta prevalência mundial e impacto crescente no Brasil devido ao envelhecimento populacional, a osteoporose demanda abordagens terapêuticas eficazes e personalizadas.  
@@ -77,13 +79,13 @@ Já para a obtenção das interações entre os genes foi utilizado o banco de d
 ### 2.2 Modelo Lógico
 Para construir nossa rede, primeiro identificamos os tipos de entidades e as relações entre elas que desejamos visualizar. As amostras, doença, drogas, genes e vias de sinalização relacionam-se conforme o modelo da figura 1.
 
-![Figura01](assets/primeira_foto.png)
+![Figura01](project-3-final\assets/primeira_foto.png)
 
 Figura 01. Modelo lógico das redes
 
 A partir das análises dos dados coletados decidimos apresentá-los correlacionando a expressão diferencial dos genes, em amostras de pacientes saudáveis e com a doenças, com os genes das vias onde os medicamentos são alvos, incluindo todos os genes das vias de sinalização a que pertencem. A figura 2 detalha o modelo desta visualização.
 
-![Figura02](assets/segunda_foto.png)
+![Figura02](project-3-final\assets/segunda_foto.png)
 
 Figura 02. Modelo da representação dos genes que são alvos dos medicamentos e que compõem as vias de sinalização envolvidas com genes diferencialmente expressos. Onde, o medicamento está representado por um losango (roxo), vias de sinalização como flechas para baixo (azul), genes diferentemente expressos positivamente como triângulos para cima (verde) e negativamente como triângulos para baixo (vermelho) e demais genes como elipses (bege)
 ---
