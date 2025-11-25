@@ -9,9 +9,9 @@
 - Felipe Araújo de Lima - Instituto de Computação
 - Thaynara Beatriz S. de Matos - Instituto de Computação
 
-[Slides](assets/Slides_Final_Osteo.pdf")
+[Slides](assets/Slides_Final_Osteo.pdf)
 
-[Relatorio](assets/Relatorio_Final.pdf")
+[Relatorio](assets/Relatorio_Final.pdf)
 
 ## Resumo
 Este trabalho apresenta uma análise integrativa sobre a osteoporose, doença caracterizada pela redução da densidade e alterações na microarquitetura óssea, resultando em maior fragilidade dos ossos. Com alta prevalência mundial e impacto crescente no Brasil devido ao envelhecimento populacional, a osteoporose demanda abordagens terapêuticas eficazes e personalizadas.  
